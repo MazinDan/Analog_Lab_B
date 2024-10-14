@@ -1,0 +1,20 @@
+Dan inserted 20 eb into breadboard
+attached terminating cap to EB
+connected channel A of sr560 to output of EB
+sr560 to ac coupling
+gain 1 x 10 ^0
+
+connect +2 on M2k to 600 Ohm on SR560
+
+set scopy:
+spectrum analyzer
+log sweep
+100 hz - 100 kHz
+unit V/root Hz
+resolution 24.41 Hz
+
+CH2
+blackman harris
+exponential RMS
+averaging 100
+High gain
