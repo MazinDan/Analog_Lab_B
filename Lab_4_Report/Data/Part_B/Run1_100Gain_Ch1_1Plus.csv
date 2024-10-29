@@ -1,11 +1,4 @@
-;Scopy version,f4beeb1
-;Exported on,Monday October 28/10/2024
-;Device,M2K
-;Nr of samples,4096
-;Sample rate,0
-;Tool,Spectrum Analyzer
-;Additional Information,Exponential RMS,Blackman-Harris,500,Exponential RMS,Blackman-Harris,500,
-Sample,Frequency(Hz),Amplitude CH1(V/?Hz),Amplitude CH2(V/?Hz)
+Sample,Frequency(Hz),Amplitude CH1(V/rt(Hz)),Amplitude CH2(V/rt(Hz))
 0,1,8.1392e-05,0.000695039
 1,24.4141,8.1392e-05,0.000695039
 2,48.8281,2.42688e-05,0.000201223
