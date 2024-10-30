@@ -1,4 +1,4 @@
-Gain,SR560m Expected Output Noise (V/rtHz),SR560m Measured Output Noise (V/rtHz)
+Gain,SR560m Expected Noise (V/rtHz),SR560m Measured Noise (V/rtHz)
 100,4.000E-07,5.347624E-06
 200,8.000E-07,6.119258E-06
 500,2.000E-06,7.845357E-06
